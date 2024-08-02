@@ -1,0 +1,30 @@
+h4{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    
+
+    
+}
+h3{
+    color: rgb(62, 171, 15);
+    margin: 2px;
+    text-align: right;
+    
+
+}
+p{
+    text-align: right;
+}
+h2{
+    text-align: center;
+    color: green;
+}
+
+h5{
+    text-align: center;
+    
+}
+div{
+    text-align: center;
+}
